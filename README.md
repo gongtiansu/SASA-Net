@@ -1,4 +1,4 @@
-# SA-Net
+# SASA-Net
 ## About The Project
 
 The implementation of the paper "SASA-Net: A spatial-aware self-attention mechanism for building protein 3D structure directly from inter-residue distances".
